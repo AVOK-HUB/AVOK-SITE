@@ -1,6 +1,6 @@
 /*
   Theme Name: KALIMPERA
-  Author: Aarok
+  Author: Avok
 */
 /*--------------------------------------------------------------
 # General
@@ -1083,12 +1083,12 @@ img.grayscale:hover {
   color: #ccc;
 }
 
-.aarok-design-link {
+.avok-design-link {
   color: #8a2be2; 
   text-decoration: none; 
   font-weight: bold; 
 }
 
-.aarok-design-link:hover {
+.avok-design-link:hover {
   color: #a05be0; 
 }

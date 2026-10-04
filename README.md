@@ -1,6 +1,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-# AAROK
+# AVOK
 
 Mon site web portfolio - Cybersécurité, Bug Bounty, Pentesting
 
@@ -10,7 +10,7 @@ Mon site web portfolio - Cybersécurité, Bug Bounty, Pentesting
 
 ## À propos
 
-AAROK est mon portfolio personnel présentant mes projets et compétences en :
+AVOK est mon portfolio personnel présentant mes projets et compétences en :
 
 - 🛡️ Cybersécurité
 - 🐛 Bug Bounty
